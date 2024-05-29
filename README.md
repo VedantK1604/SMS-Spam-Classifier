@@ -18,5 +18,6 @@ An email spam classifier is a tool that helps to identify and filter out unwante
 
 The Naive Bayes algorithm is used for classifying emails. It is a simple yet powerful algorithm suitable for text classification tasks like spam detection.
 
-- Try out the project: `link`
+- Try out the project: https://sms-spam-classifier-mls7.onrender.com
+  
 Thank you for using the email spam classifier!
