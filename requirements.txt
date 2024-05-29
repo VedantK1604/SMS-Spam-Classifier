@@ -1,7 +1,5 @@
 streamlit
-string
 nltk
 pandas
 numpy
 sklearn
-chardet
